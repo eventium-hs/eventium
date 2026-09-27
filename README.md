@@ -96,7 +96,7 @@ just format         # ormolu formatting
 just ghcid          # continuous compilation
 ```
 
-PostgreSQL tests require a running instance (`docker compose up -d`). See [CLAUDE.md](CLAUDE.md) for env var details.
+PostgreSQL tests require a running instance (`docker compose up -d`). See [AGENTS.md](AGENTS.md) for env var details.
 
 ## Documentation
 
